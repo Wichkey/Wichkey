@@ -1,8 +1,8 @@
 # Daniel Mehler
 
-Co-founder & CTO at [Oblivion](https://oblivion.vision). I build AI agents and the software businesses run on.
+Co-founder of [Oblivion](https://oblivion.vision). I build AI agents and the software businesses run on.
 
-Cognitive scientist by training, engineer by trade. I work on Overmind, Oblivion's agent pipeline that builds, hosts and runs client software, with a senior engineer reviewing every change.
+Cognitive scientist by training, engineer by trade. 
 
 ### What I work on
 
